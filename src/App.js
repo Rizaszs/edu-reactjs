@@ -5,7 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img
+          src="http://3.bp.blogspot.com/-L-TujF4yVhc/UTlk-NF4XKI/AAAAAAAAAzg/vIeOHgHeVm4/s1600/iwan-fals.jpg"
+          className="App-logo"
+          alt="logo"
+        />
         <p>Testing React</p>
         <a
           className="App-link"
