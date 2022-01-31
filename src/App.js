@@ -9,7 +9,7 @@ function App() {
           className="App-logo"
           alt="logo"
         />
-        <p>Testing React</p>
+        <p>tes kedua</p>
         <a
           className="App-link"
           href="https://reactjs.org"
